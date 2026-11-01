@@ -17,10 +17,11 @@
   <rect x="-40" y="196" width="592" height="120" fill="#120F1C"/>
   <g clip-path="url(#corridor)">
     <circle cx="170" cy="256" r="110" fill="url(#glow)"/>
-    <rect x="236" y="232" width="122" height="48" rx="24" fill="url(#trail)"/>
+    <rect x="236" y="227" width="122" height="48" rx="24" fill="url(#trail)"/>
   </g>
   <rect x="128" y="214" width="84" height="84" rx="17" fill="#FFFFFF"/>
-  <circle cx="358" cy="262" r="38" fill="#B84A8A"/>
-  <circle cx="358" cy="256" r="38" fill="#FF70C2"/>
-  <circle cx="358" cy="256" r="22" fill="none" stroke="#FFC2E4" stroke-width="8"/>
+  <circle cx="358" cy="261" r="38" fill="#8C3E6B"/>
+  <circle cx="358" cy="251" r="38" fill="#FF70C2"/>
+  <circle cx="358" cy="251" r="18.3" fill="none" stroke="#FFFFFF" stroke-opacity="0.55" stroke-width="3.2"/>
+  <circle cx="358" cy="251" r="6.2" fill="#FFFFFF"/>
 </svg>
